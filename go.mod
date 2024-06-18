@@ -1,4 +1,4 @@
-module example.com/links
+module github.com/greglange/links
 
 go 1.21.1
 
